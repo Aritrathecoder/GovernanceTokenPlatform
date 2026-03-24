@@ -1,6 +1,6 @@
 # GovernanceTokenPlatform
 
-## Project Description
+## Project Descriptionnnsss
 Governance Token Platform is a basic Soroban smart contract built on Stellar for managing community proposals, token-based voting, and proposal execution. It provides a simple on-chain governance flow where token holders can participate in decision-making.
 
 ## What it does

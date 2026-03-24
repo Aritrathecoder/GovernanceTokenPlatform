@@ -17,7 +17,8 @@ This contract lets an admin initialize the platform, mint governance tokens, tra
 - On-chain balance and proposal lookup
 
 ## Deployed Smart Contract Link
-Governance Token Platform: [Insert your deployed contract address or explorer link here]
+Governance Token Platform: Transaction dc07a485fa5ff044ec1eba6ed3afe2fa7b3a55dd02aa27fcf532cf3db8b19dad
+Summary
 
 ## Basic Usage
 1. Deploy the contract to Stellar using Soroban CLI.
